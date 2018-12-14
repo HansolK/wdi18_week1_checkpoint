@@ -20,5 +20,5 @@ not sure? do pwd.
 Once you ls in the scobbies folder, you will be able to see the files that you just created.
 "cp angel.txt cd../vamps" - if you do this, you will be able to copy the file into the vamps directory.
 
-
-
+to remove the folder of vamps,
+rm -r vamps
